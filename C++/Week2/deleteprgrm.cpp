@@ -19,7 +19,7 @@ int main(){
     A*a = new A[5];
 
     delete[] a;
-    // cout<<"main end"<<endl;
+    cout<<"main end"<<endl;
     // delete a;
   return 0;
 }
